@@ -19,7 +19,8 @@ div {
   color: blue;
 }
 .bottle-price {
-  color: darkgray;
+  color: black;
+  background: pink;
 }
 .items {
   color: gray;
