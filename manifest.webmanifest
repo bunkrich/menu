@@ -1,0 +1,8 @@
+{
+  "name": "Sid Gold's Menu",
+  "short_name": "Menu",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "A simply readable Menu app.",
+}
