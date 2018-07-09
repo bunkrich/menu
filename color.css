@@ -16,10 +16,10 @@ div {
   background: lightyellow;
 }
 .price+.price::before {
-  color: yellow;
+  color: blue;
 }
 .bottle-price {
-  color: lightgrey;
+  color: darkgray;
 }
 .items {
   color: gray;
