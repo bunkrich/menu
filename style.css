@@ -33,7 +33,7 @@ h4 {
 }
 
 body {
-  font-size: 10px;
+  font-size: 16px;
   font-family: 'Open Sans', sans-serif;
 }
 #logo {
@@ -51,6 +51,8 @@ header, footer, aside {
 
 .price {
   text-align: center;
+  width: fit-content;
+  display: inline-block;
 }
 .items, #pupu {
   border-radius: 15px;
