@@ -9,6 +9,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 100%;
   font-weight: normal;
   text-align: center;
+  /* font-family: 'IBM Plex Sans', sans-serif; */
 }
 *, *:before, *:after {
   box-sizing: inherit;
@@ -34,6 +35,8 @@ h4 {
 
 body {
   font-size: 16px;
+  /* font-family: 'IBM Plex Sans', sans-serif; */
+
   font-family: 'Open Sans', sans-serif;
 }
 #logo {
@@ -45,6 +48,8 @@ body {
 
 header, footer, aside {
   text-align: center;
+  font-family: 'IBM Plex Sans Condensed', sans-serif;
+
   /* margin: 2em;
   padding: 1em; */
 }

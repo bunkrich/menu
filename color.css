@@ -16,7 +16,7 @@ div {
   background: lightyellow;
 }
 .price+.price::before {
-  color: blue;
+  color: var(--darkpurple);
 }
 .bottle-price {
   color: black;
@@ -26,13 +26,13 @@ div {
   color: gray;
 }
 .cocktail::before {
-  background: lightskyblue;
+  background: var(--green);
 }
 div, .price {
   border-radius: 15px;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 8px 0 var(--navy);
   transition: 0.3s;
 }
 div:hover {
-  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 8px 16px 0 var(--blue);
 }
